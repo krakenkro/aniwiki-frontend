@@ -3,13 +3,8 @@ import {
   Typography,
   TextField,
   Button,
-  Box,
   CircularProgress,
-  Card,
-  CardMedia,
-  CardContent,
-  Grid,
-  FormControl, InputLabel, Select, MenuItem, Paper
+  Grid, Paper
 } from '@mui/material';
 import apiService, { AnimeItem } from '../services/api';
 import SearchIcon from "@mui/icons-material/Search";
