@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { ThemeProvider, createTheme, CssBaseline } from '@mui/material';
 import Header from './components/Header';
 import Footer from './components/Footer';
@@ -12,7 +12,6 @@ import AISearchPage from './pages/AISearchPage';
 import NotFoundPage from './pages/NotFoundPage';
 import './App.css';
 
-// Create a theme instance
 const theme = createTheme({
   palette: {
     primary: {
