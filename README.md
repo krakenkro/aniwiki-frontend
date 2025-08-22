@@ -1,5 +1,9 @@
 # AniWiki Frontend
 
+## Repositories
+- **Frontend:** (this repository)  
+- **Backend:** [AniWiki Backend](https://github.com/krakenkro/aniwiki-backend)
+
 ## Project Description
 
 The AniWiki frontend is a React application that provides a user-friendly interface for browsing and searching anime, manga, and character information. It communicates with the AniWiki backend server to fetch data and offers features like regular search and AI-powered smart search.
