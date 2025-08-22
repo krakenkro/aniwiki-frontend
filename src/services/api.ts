@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Base API URL - this will use the proxy set up in package.json
-const API_BASE_URL = '/api';
+const API_BASE_URL = 'https://aniwiki-backend.vercel.app/api';
 
 // Create axios instance
 const api = axios.create({
