@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aniwiki-frontend/static/css/main.0d6957e7.css",
+    "main.js": "/aniwiki-frontend/static/js/main.948fea01.js",
+    "static/js/453.5d8d17ea.chunk.js": "/aniwiki-frontend/static/js/453.5d8d17ea.chunk.js",
+    "index.html": "/aniwiki-frontend/index.html",
+    "main.0d6957e7.css.map": "/aniwiki-frontend/static/css/main.0d6957e7.css.map",
+    "main.948fea01.js.map": "/aniwiki-frontend/static/js/main.948fea01.js.map",
+    "453.5d8d17ea.chunk.js.map": "/aniwiki-frontend/static/js/453.5d8d17ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6957e7.css",
+    "static/js/main.948fea01.js"
+  ]
+}
